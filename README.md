@@ -1,4 +1,4 @@
-# ProfitPredictor ~ Linear Regression: Predicting Restaurant Profits
+# ProfitPredictor ~ Predicting Restaurant Profits
 
 This project implements **Linear Regression with one variable** using **Gradient Descent** to predict restaurant profits based on population data. The goal is to estimate potential monthly profits for new locations, based on existing data from other cities.
 
